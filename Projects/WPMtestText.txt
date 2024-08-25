@@ -1,0 +1,4 @@
+9 HOURS of Python Projects - From Beginner to Advanced
+This video contains over 9 hours of python project tutorials designed to help you master python and learn through projects!
+The frontend will be developed using ReactJS for a dynamic and responsive user interface.
+The backend will utilize Django, a robust Python framework, for efficient backend development and API integration.
